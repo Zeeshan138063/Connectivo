@@ -52,7 +52,7 @@ $ source connectivo_venv/bin/activate
 ` (connectivo_venv) $ git clone <remote repository name> `
 
 Example:
-` (connectivo_venv) $ git clone https://github.com/origami-studios-llc/sirmaya-backend.git `  
+` (connectivo_venv) $ git clone https://github.com/Zeeshan138063/connectivo.git
 
 At this moment last actual changes in project lives in `develop` branch. If you want checkout to that branch.  
 ` (connectivo_venv) $ git checkout develop`
